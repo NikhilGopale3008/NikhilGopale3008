@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NikhilGopale3008
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Nikhil Gopale
+- 👀 passionate about career in Data Analytics..
+- 🌱 I’m currently learning Master in Data science and Big Data Analytics..
+- 
+-
 
 <!---
 NikhilGopale3008/NikhilGopale3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
