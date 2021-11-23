@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil Gopale
 - 👀 passionate about career in Data Analytics..
-- 🌱 I’m currently learning Master in Data science and Big Data Analytics..
+- 🌱 I’m Currently Doing Master's in Data science and Big Data Analytics..
 - 
 -
 
